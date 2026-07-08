@@ -743,9 +743,7 @@ Developed an enterprise-grade AI platform (**ShiftIntel**) to modernize industri
 
 </div>
 
----
 
----
 
 
 
@@ -775,7 +773,7 @@ Developed an enterprise-grade AI platform (**ShiftIntel**) to modernize industri
 
 </div>
 
----
+
 
 <div align="center">
 
