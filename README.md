@@ -1,28 +1,934 @@
-# 💫 About Me:
-🔭 I’m a B.Tech Computer Science & Engineering student at Trident Academy of Technology, Bhubaneswar.<br>🚀 I’m passionate about building and contributing to projects in Web Development, AI/ML, and Cloud Computing. I enjoy turning ideas into scalable, real-world solutions.<br>🤝 I’m open to collaborating with tech enthusiasts, DSA practitioners, and industry professionals to learn, build, and grow together.<br>🌱 Currently focused on strengthening my skills in Data Structures & Algorithms, Artificial Intelligence, and Full-Stack Web Development.<br>💬 Feel free to ask me about Web Development, Cloud basics, or getting started with tech projects.<br>⚡ Fun fact: I treat every bug as a clue, not a failure.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20,24,30&text=Shreya%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyaaa__.277) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shreya-kumar-a27118311) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreya.jsr2708@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shreyakumar995&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shreyakumar995&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakumar995&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Software;Full+Stack+Developer;Software+Engineering+Student;Backend+Engineering+Enthusiast;Always+Learning+Always+Building"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shreyakumar995&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br><br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<a href="mailto:shreya.jsr2708@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shreyakumar995&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://www.linkedin.com/in/shreya-kumar-a27118311">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/shreyakumar995">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=shreyakumar995&style=flat-square&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/followers/shreyakumar995?style=flat-square&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/stars/shreyakumar995?style=flat-square&color=7C3AED"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shreyakumar995&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# Hi there 👋
+
+I'm **Shreya Kumar**, a final-year Computer Science student with a passion for building scalable software, intelligent systems, and modern web applications.
+
+I enjoy turning ideas into products by combining **software engineering**, **AI**, and **full-stack development**. My interests span backend architecture, cloud technologies, and practical applications of Large Language Models to solve real-world problems.
+
+Most recently, during my internship at **Tata Steel**, I developed **ShiftIntel**, an AI-powered platform that streamlines industrial shift handovers through intelligent report generation and conversational search.
+
+---
+
+# Engineering Snapshot
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Education
+
+**B.Tech Computer Science**
+
+Final Year
+
+CGPA **8.3**
+
+</td>
+
+<td width="50%">
+
+### 💼 Experience
+
+Software Engineering Intern
+
+**Tata Steel**
+
+Agentic AI Development
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🤖 Primary Focus
+
+- Software Engineering
+- Full Stack Development
+- AI Engineering
+- Backend Development
+
+</td>
+
+<td>
+
+### 🚀 Open To
+
+- Software Engineer
+- Backend Engineer
+- AI Engineer
+- Full Stack Developer
+
+</td>
+</tr>
+
+</table>
+
+---
+
+# About Me
+
+```text
+• Passionate about building AI-powered software products
+
+• Enjoy designing scalable backend systems
+
+• Love creating clean and intuitive user experiences
+
+• Interested in Agentic AI and intelligent automation
+
+• Strong believer in writing maintainable code
+
+• Always exploring modern engineering practices
+```
+
+---
+
+# Currently
+
+| | |
+|:--|:--|
+| 🌱 Learning | System Design • Kubernetes • Advanced AI |
+| 🛠 Building | ShiftIntel • Portify • StudyBuddy AI |
+| 📚 Exploring | Distributed Systems • Cloud Native Development |
+| 🎯 Goal | Software Engineer at a Product Company |
+
+---
+
+# Quick Highlights
+
+- 🤖 AI Product Builder
+- 🌐 Full Stack Developer
+- ☁️ AWS Enthusiast
+- 🧠 100+ DSA Problems Solved
+- 🏭 Tata Steel Intern
+- 🚀 Open Source Learner
+
+---
+
+> **"Build software that is simple, scalable, and meaningful."**
+
+---
+# Tech Arsenal
+
+<div align="center">
+
+> *Building modern, scalable, and AI-powered software with a strong engineering foundation.*
+
+</div>
+
+---
+
+## 💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css,sql"/>
+
+</div>
+
+| Strength | Technologies |
+|:---------|:-------------|
+| Primary | Python • Java • TypeScript |
+| Secondary | JavaScript • SQL |
+| Web Foundations | HTML5 • CSS3 |
+
+---
+
+## 🎨 Frontend Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
+
+</div>
+
+### Highlights
+
+- Responsive UI Design
+- Component-Based Architecture
+- Modern React Development
+- Server-Side Rendering (Next.js)
+- Performance Optimization
+- Mobile-First Design
+
+---
+
+## ⚙️ Backend Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs"/>
+
+</div>
+
+### Expertise
+
+- REST API Development
+- Authentication & Authorization
+- Database Design
+- API Integration
+- Backend Architecture
+- Modular Development
+
+---
+
+## 🗄 Database & Storage
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase"/>
+
+</div>
+
+| Database | Usage |
+|-----------|-------|
+| SQLite | Application Data |
+| Firebase | Authentication & Cloud Services |
+| MySQL | Relational Database Fundamentals |
+
+---
+
+## 🤖 AI Engineering
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Groq_API-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLaMA_3-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-312E81?style=for-the-badge"/>
+
+</div>
+
+| Domain | Experience |
+|:-------|:-----------|
+| Agentic AI Workflows | ✅ |
+| LLM Integration | ✅ |
+| Prompt Engineering | ✅ |
+| AI Chatbots | ✅ |
+| NLP Applications | ✅ |
+| Document Intelligence | ✅ |
+| AI Automation | ✅ |
+| REST AI Services | ✅ |
+
+---
+
+## ☁️ Cloud & Deployment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify"/>
+
+</div>
+
+### Platforms
+
+- AWS EC2
+- AWS S3
+- Firebase Hosting
+- Vercel
+- Render
+- Netlify
+
+---
+
+## 🛠 Developer Toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</div>
+
+### Daily Workflow
+
+```text
+Plan
+   ↓
+Design
+   ↓
+Develop
+   ↓
+Test
+   ↓
+Deploy
+   ↓
+Improve
+```
+
+---
+
+# Core Competencies
+
+| Engineering Area | Confidence |
+|:-----------------|:----------:|
+| Full Stack Development | ██████████ |
+| Backend Development | █████████▌ |
+| REST API Design | ██████████ |
+| AI Product Development | █████████▌ |
+| Frontend Engineering | █████████▌ |
+| Cloud Deployment | ████████▌ |
+| Database Design | ████████▌ |
+| Problem Solving | █████████▌ |
+
+---
+
+# Engineering Principles
+
+<div align="center">
+
+| Principle | Why It Matters |
+|:----------|:---------------|
+| 🧩 Clean Code | Easy to maintain and extend |
+| 🏗 Modular Architecture | Better scalability and testing |
+| ⚡ Performance | Faster, smoother user experience |
+| 🔒 Reliability | Stable software for production |
+| 🤝 Collaboration | Team-first development mindset |
+| 📈 Continuous Learning | Stay current with evolving technologies |
+
+</div>
+
+---
+
+# What Drives Me
+
+```text
+✔ Building products with real-world impact
+
+✔ Solving engineering challenges
+
+✔ Learning modern technologies
+
+✔ Exploring AI beyond simple chatbot use cases
+
+✔ Writing maintainable and scalable software
+
+✔ Continuously improving as a software engineer
+```
+
+---
+# Featured Projects
+
+<div align="center">
+
+## 🚀 Building AI-Powered Products That Solve Real Problems
+
+*Focused on scalable software, intelligent automation, and modern full-stack engineering.*
+
+</div>
+
+---
+
+<details open>
+
+<summary>
+
+# 🏭 ShiftIntel
+### Agentic AI-Powered Shift Handover Platform
+
+</summary>
+
+<br>
+
+### 📖 Overview
+
+Developed during my internship at **Tata Steel**, **ShiftIntel** is an enterprise AI platform that transforms manual shift handovers into an intelligent, automated workflow.
+
+It converts raw operator inputs into structured reports, highlights critical operational insights, enables conversational search over historical records, and automates documentation, reducing repetitive manual effort.
+
+---
+
+## 🏗 Architecture
+
+```text
+Operator Input
+      │
+      ▼
+Validation Layer
+      │
+      ▼
+REST API
+      │
+      ▼
+Agentic AI Pipeline
+      │
+ ┌────┼────────────┐
+ │    │            │
+ ▼    ▼            ▼
+Extraction Summary Chatbot
+ │
+ ▼
+Structured Report
+ │
+ ▼
+SQLite Database
+ │
+ ▼
+PDF + Email Delivery
+```
+
+---
+
+## ⚙ Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Frontend | Next.js • Tailwind CSS |
+| Backend | Flask • REST APIs |
+| Database | SQLite |
+| AI | Groq API • LLaMA 3 |
+| Deployment | Cloud Ready |
+
+---
+
+## ✨ Key Features
+
+- Multi-step Agentic AI workflow
+- Automated report generation
+- Intelligent report summarization
+- Natural language search
+- AI-powered chatbot
+- PDF export
+- Email notifications
+- Responsive dashboard
+- Clean REST architecture
+- Modular backend
+
+---
+
+## 📈 Engineering Impact
+
+✔ Reduced manual report creation
+
+✔ Standardized shift documentation
+
+✔ Faster engineering handovers
+
+✔ Improved information accessibility
+
+✔ AI-assisted operational workflow
+
+---
+
+**Repository:** *Coming Soon*
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 🌐 Portify
+### AI-Powered Developer Portfolio Generator
+
+</summary>
+
+<br>
+
+### 📖 Overview
+
+Portify generates a professional developer portfolio directly from a GitHub username.
+
+It analyzes repositories, identifies technologies, extracts skills, and produces a polished portfolio with multiple themes and export options.
+
+---
+
+## Workflow
+
+```text
+GitHub Username
+        │
+        ▼
+Repository Analysis
+        │
+        ▼
+Technology Detection
+        │
+        ▼
+Skill Extraction
+        │
+        ▼
+Portfolio Generation
+```
+
+---
+
+## ⚙ Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Frontend | Next.js 14 |
+| Styling | Tailwind CSS |
+| Language | TypeScript |
+| Backend | Python |
+| APIs | GitHub REST API |
+| Deployment | Vercel |
+
+---
+
+## Features
+
+- Repository analysis
+- Dynamic themes
+- Skill detection
+- Recruiter-friendly layout
+- PDF export
+- QR Code generation
+- Responsive design
+- SEO optimization
+- Fast performance
+
+---
+
+## Engineering Highlights
+
+✔ Eliminates manual portfolio creation
+
+✔ Uses live GitHub data
+
+✔ Modern server-side architecture
+
+✔ Optimized for recruiter experience
+
+---
+
+**Repository:** *Coming Soon*
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 📚 StudyBuddy AI
+### Intelligent Learning Platform
+
+</summary>
+
+<br>
+
+### 📖 Overview
+
+StudyBuddy AI helps students transform study materials into interactive learning experiences.
+
+Users can upload PDFs to generate summaries, flashcards, quizzes, and interact with an AI tutor through natural language.
+
+---
+
+## AI Pipeline
+
+```text
+PDF Upload
+     │
+     ▼
+Text Extraction
+     │
+     ▼
+LLM Processing
+ ┌────┼────────────┐
+ │    │            │
+ ▼    ▼            ▼
+Summary Quiz Flashcards
+           │
+           ▼
+Interactive Chat
+```
+
+---
+
+## ⚙ Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Frontend | React |
+| Backend | Django REST Framework |
+| AI | Groq API |
+| Authentication | Django Auth |
+| Database | SQLite |
+| Hosting | Render • Netlify |
+
+---
+
+## Features
+
+- AI summaries
+- Flashcard generation
+- Quiz generation
+- AI tutor
+- Secure authentication
+- Progress tracking
+- Mobile-friendly UI
+
+---
+
+## Engineering Value
+
+✔ Makes learning interactive
+
+✔ AI-assisted education
+
+✔ Responsive full-stack application
+
+✔ Clean REST architecture
+
+---
+
+**Repository:** *Coming Soon*
+
+</details>
+
+---
+
+# Open Source & What I'm Building
+
+### 🌱 Current Focus
+
+- Building production-ready AI applications
+- Exploring Agentic AI architectures
+- Strengthening backend engineering skills
+- Contributing to open-source projects
+- Improving software design and scalability
+
+---
+
+### 💡 Engineering Philosophy
+
+> **"The best software doesn't just work. It solves the right problem, scales gracefully, and remains maintainable as it grows."**
+
+---
+
+# Project Highlights
+
+| Project | Domain | Focus |
+|:--------|:-------|:------|
+| ShiftIntel | Enterprise AI | Industrial Automation |
+| Portify | Developer Tools | Portfolio Automation |
+| StudyBuddy AI | EdTech | AI-Powered Learning |
+
+---
+# Professional Experience
+
+<div align="center">
+
+## 💼 Experience
+
+</div>
+
+---
+
+### 🏭 Software Engineering Intern
+
+**Tata Steel • Information Technology Department**
+
+📍 Jamshedpur, India
+
+🗓 **May 2026 – July 2026**
+
+Developed an enterprise-grade AI platform (**ShiftIntel**) to modernize industrial shift handovers through intelligent automation, RESTful architecture, and Large Language Models.
+
+---
+
+### Responsibilities
+
+- Designed an Agentic AI workflow for intelligent report generation.
+- Built scalable backend APIs using **Flask**.
+- Developed responsive interfaces with **Next.js** and **Tailwind CSS**.
+- Integrated **Groq API (LLaMA 3)** for AI-powered summarization.
+- Engineered an NLP chatbot for querying historical reports.
+- Automated PDF generation and email notifications.
+- Designed and maintained a normalized SQLite database.
+- Applied modular architecture and clean software engineering practices.
+- Collaborated with mentors through iterative development and reviews.
+
+---
+
+### Technologies Used
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,python,flask,sqlite,tailwind,git"/>
+
+</div>
+
+---
+
+# Achievements
+
+<div align="center">
+
+| 🏆 Achievement | Description |
+|:--------------|:------------|
+| 🥇 Hackathon Winner | Led a team in delivering a full-stack solution within a 24-hour hackathon. |
+| 🏭 Tata Steel Intern | Built an enterprise AI platform for industrial workflow automation. |
+| 🤖 AI Product Builder | Designed multiple AI-powered full-stack applications. |
+| 💯 DSA Enthusiast | Solved 100+ problems using Java. |
+| 🌐 Full Stack Developer | Built responsive, production-ready web applications. |
+
+</div>
+
+---
+
+# Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/IBM-React_Development-1261FE?style=for-the-badge&logo=ibm"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Career_Essentials-5E5E5E?style=for-the-badge&logo=microsoft"/>
+
+<img src="https://img.shields.io/badge/Deloitte-Technology_Job_Simulation-86BC25?style=for-the-badge&logo=deloitte"/>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyakumar995&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakumar995&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=shreyakumar995&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyakumar995&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyakumar995&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyakumar995&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyakumar995&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shreyakumar995&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyakumar995&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+> **Requires a GitHub Actions workflow to generate automatically.**
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyakumar995/shreyakumar995/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyakumar995/shreyakumar995/output/github-contribution-grid-snake.svg">
+
+<img alt="Contribution Snake" src="https://raw.githubusercontent.com/shreyakumar995/shreyakumar995/output/github-contribution-grid-snake-dark.svg"/>
+
+</picture>
+
+</div>
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/shreyakumar27/">
+<img src="https://img.shields.io/badge/LeetCode-shreyakumar27-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shreyakumar995">
+<img src="https://img.shields.io/badge/GitHub-shreyakumar995-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shreya-kumar-a27118311">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+# Current Focus
+
+```yaml
+current_status:
+  role: "Final Year B.Tech Student"
+
+learning:
+  - Distributed Systems
+  - System Design
+  - Kubernetes
+  - Advanced Backend Engineering
+  - AI Engineering
+
+building:
+  - ShiftIntel
+  - Portify
+  - StudyBuddy AI
+
+exploring:
+  - Agentic AI
+  - Multi-Agent Systems
+  - Cloud Native Development
+  - Software Architecture
+
+career_goal:
+  - Software Engineer
+  - Backend Engineer
+  - AI Engineer
+```
+
+---
+
+# 2026 Roadmap
+
+<div align="center">
+
+| 🎯 Goal | Status |
+|:--------|:------:|
+| Build impactful AI products | 🚀 |
+| Strengthen DSA & System Design | 📚 |
+| Contribute to Open Source | 🌱 |
+| Master Backend Engineering | ⚙️ |
+| Secure a Product-Based SWE Role | 🎯 |
+
+</div>
+
+---
+
+# Beyond the Code
+
+I enjoy building software that solves real-world problems and continuously exploring new technologies.
+
+Outside development, you'll usually find me:
+
+- 📖 Learning software architecture
+- 🤖 Experimenting with AI workflows
+- 💡 Building side projects
+- 🌍 Exploring open-source repositories
+- ☕ Solving DSA problems
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+<a href="mailto:shreya.jsr2708@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shreya-kumar-a27118311">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/shreyakumar995">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for stopping by!
+
+*"Code with purpose. Learn continuously. Build products that matter."*
+
+If you found my work interesting, feel free to connect or explore my repositories.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
