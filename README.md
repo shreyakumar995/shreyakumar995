@@ -38,11 +38,9 @@
 
 # Hi there 👋
 
-I'm **Shreya Kumar**, a final-year Computer Science student with a passion for building scalable software, intelligent systems, and modern web applications.
+Final-year Computer Science student passionate about software engineering, backend development, and AI-powered applications.
 
-I enjoy turning ideas into products by combining **software engineering**, **AI**, and **full-stack development**. My interests span backend architecture, cloud technologies, and practical applications of Large Language Models to solve real-world problems.
-
-Most recently, during my internship at **Tata Steel**, I developed **ShiftIntel**, an AI-powered platform that streamlines industrial shift handovers through intelligent report generation and conversational search.
+I enjoy building scalable full-stack products using Next.js, Flask, Django, and modern LLM technologies to solve real-world problems.
 
 ---
 
@@ -172,12 +170,12 @@ Agentic AI Development
 
 ### Highlights
 
-- Responsive UI Design
-- Component-Based Architecture
-- Modern React Development
-- Server-Side Rendering (Next.js)
+- React
+- Next.js
+- TailwindCSS
+- TypeScript
 - Performance Optimization
-- Mobile-First Design
+  
 
 ---
 
@@ -299,38 +297,10 @@ Improve
 | 🧠 Problem Solving | ⭐⭐⭐⭐⭐ |
 ---
 
-# Engineering Principles
 
-<div align="center">
-
-| Principle | Why It Matters |
-|:----------|:---------------|
-| 🧩 Clean Code | Easy to maintain and extend |
-| 🏗 Modular Architecture | Better scalability and testing |
-| ⚡ Performance | Faster, smoother user experience |
-| 🔒 Reliability | Stable software for production |
-| 🤝 Collaboration | Team-first development mindset |
-| 📈 Continuous Learning | Stay current with evolving technologies |
-
-</div>
 
 ---
 
-# What Drives Me
-
-```text
-✔ Building products with real-world impact
-
-✔ Solving engineering challenges
-
-✔ Learning modern technologies
-
-✔ Exploring AI beyond simple chatbot use cases
-
-✔ Writing maintainable and scalable software
-
-✔ Continuously improving as a software engineer
-```
 
 ---
 # Featured Projects
@@ -617,15 +587,7 @@ Interactive Chat
 
 ---
 
-# Project Highlights
 
-| Project | Domain | Focus |
-|:--------|:-------|:------|
-| ShiftIntel | Enterprise AI | Industrial Automation |
-| Portify | Developer Tools | Portfolio Automation |
-| StudyBuddy AI | EdTech | AI-Powered Learning |
-
----
 # Professional Experience
 
 <div align="center">
@@ -789,19 +751,7 @@ Developed an enterprise-grade AI platform (**ShiftIntel**) to modernize industri
 
 ---
 
-# Beyond the Code
 
-I enjoy building software that solves real-world problems and continuously exploring new technologies.
-
-Outside development, you'll usually find me:
-
-- 📖 Learning software architecture
-- 🤖 Experimenting with AI workflows
-- 💡 Building side projects
-- 🌍 Exploring open-source repositories
-- ☕ Solving DSA problems
-
----
 
 # Let's Connect
 
