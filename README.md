@@ -704,16 +704,6 @@ Developed an enterprise-grade AI platform (**ShiftIntel**) to modernize industri
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyakumar995&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakumar995&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=shreyakumar995&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
