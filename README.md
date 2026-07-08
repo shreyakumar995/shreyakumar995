@@ -929,6 +929,11 @@ If you found my work interesting, feel free to connect or explore my repositorie
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
 
 </div>
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
