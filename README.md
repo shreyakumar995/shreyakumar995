@@ -121,16 +121,6 @@ Agentic AI Development
 
 ---
 
-# Currently
-
-| | |
-|:--|:--|
-| 🌱 Learning | System Design • Kubernetes • Advanced AI |
-| 🛠 Building | ShiftIntel • Portify • StudyBuddy AI |
-| 📚 Exploring | Distributed Systems • Cloud Native Development |
-| 🎯 Goal | Software Engineer at a Product Company |
-
----
 
 # Quick Highlights
 
@@ -297,17 +287,16 @@ Improve
 
 # Core Competencies
 
-| Engineering Area | Confidence |
-|:-----------------|:----------:|
-| Full Stack Development | ██████████ |
-| Backend Development | █████████▌ |
-| REST API Design | ██████████ |
-| AI Product Development | █████████▌ |
-| Frontend Engineering | █████████▌ |
-| Cloud Deployment | ████████▌ |
-| Database Design | ████████▌ |
-| Problem Solving | █████████▌ |
-
+| Domain | Expertise |
+|---------|-----------|
+| 💻 Full Stack Development | ⭐⭐⭐⭐⭐ |
+| ⚙️ Backend Engineering | ⭐⭐⭐⭐⭐ |
+| 🔗 REST API Design | ⭐⭐⭐⭐⭐ |
+| 🤖 AI Applications | ⭐⭐⭐⭐⭐ |
+| 🎨 Frontend Development | ⭐⭐⭐⭐☆ |
+| ☁️ Cloud Technologies | ⭐⭐⭐⭐☆ |
+| 🗄 Database Design | ⭐⭐⭐⭐☆ |
+| 🧠 Problem Solving | ⭐⭐⭐⭐⭐ |
 ---
 
 # Engineering Principles
@@ -620,17 +609,7 @@ Interactive Chat
 
 ---
 
-# Open Source & What I'm Building
 
-### 🌱 Current Focus
-
-- Building production-ready AI applications
-- Exploring Agentic AI architectures
-- Strengthening backend engineering skills
-- Contributing to open-source projects
-- Improving software design and scalability
-
----
 
 ### 💡 Engineering Philosophy
 
@@ -727,21 +706,14 @@ Developed an enterprise-grade AI platform (**ShiftIntel**) to modernize industri
 
 # GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyakumar995&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakumar995&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyakumar995&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakumar995&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=shreyakumar995&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=shreyakumar995&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -767,13 +739,7 @@ Developed an enterprise-grade AI platform (**ShiftIntel**) to modernize industri
 
 ---
 
-# GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shreyakumar995&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
-
-</div>
 
 ---
 
@@ -826,51 +792,10 @@ Developed an enterprise-grade AI platform (**ShiftIntel**) to modernize industri
 </div>
 
 ---
-# Current Focus
-
-```yaml
-current_status:
-  role: "Final Year B.Tech Student"
-
-learning:
-  - Distributed Systems
-  - System Design
-  - Kubernetes
-  - Advanced Backend Engineering
-  - AI Engineering
-
-building:
-  - ShiftIntel
-  - Portify
-  - StudyBuddy AI
-
-exploring:
-  - Agentic AI
-  - Multi-Agent Systems
-  - Cloud Native Development
-  - Software Architecture
-
-career_goal:
-  - Software Engineer
-  - Backend Engineer
-  - AI Engineer
-```
 
 ---
 
-# 2026 Roadmap
 
-<div align="center">
-
-| 🎯 Goal | Status |
-|:--------|:------:|
-| Build impactful AI products | 🚀 |
-| Strengthen DSA & System Design | 📚 |
-| Contribute to Open Source | 🌱 |
-| Master Backend Engineering | ⚙️ |
-| Secure a Product-Based SWE Role | 🎯 |
-
-</div>
 
 ---
 
@@ -929,11 +854,7 @@ If you found my work interesting, feel free to connect or explore my repositorie
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
 
 </div>
-## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
